@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practice.
+Hello Colleagues
+My name is George Kgoete. 
+I am a software and data capenry certified instructor.
